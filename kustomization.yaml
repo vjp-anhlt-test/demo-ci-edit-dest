@@ -5,4 +5,4 @@ resources:
 images:
 - name: app
   newName: ghcr.io/vjp-anhlt-test/demo-ci-edit-src
-  newTag: initial
+  newTag: 93a179ae4307253b9bdef54dca9476a6dc49745b
